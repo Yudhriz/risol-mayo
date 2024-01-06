@@ -10891,6 +10891,11 @@ section {
  * Last Build: Tue Nov 14 2017 12:40:57
  */
 
+.front-image {
+  max-width: 100%;
+  height: auto;
+}
+
 section.cta {
   position: relative;
   padding: 15rem 0;
